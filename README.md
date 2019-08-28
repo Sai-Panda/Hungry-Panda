@@ -6,4 +6,4 @@ I wanted to learn something new while on break from University, so I decided to 
 
 The game is similar to games like Flappy Bird, where you need to guide a character through a gap between obstacles. However those games usually involving "jumping" and free falling through the obstacles where as in Hungry Panda, the movement is based on dragging the Panda up and down.  
 
-For a video of the gameplay, click [here.](https://i.giphy.com/media/IdIK4YnwOd39npY2Da/source.mp4)
+For a video of the gameplay, click [here.](https://streamable.com/rjvor)
